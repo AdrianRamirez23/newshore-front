@@ -25,9 +25,30 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/css/bootstrap.min.css",
+              "src/css/owl.theme.default.min.css",
+              "src/css/jquery.fancybox.min.css",
+              "src/fonts/icomoon/style.css",
+              "src/fonts/flaticon/font/flaticon.css",
+              "src/css/daterangepicker.css",
+              "src/css/aos.css"
+             
             ],
-            "scripts": []
+            "scripts": [
+              "src/js/jquery-3.4.1.min.js",
+              "src/js/popper.min.js",
+              "src/js/bootstrap.min.js",
+              "src/js/owl.carousel.min.js",
+              "src/js/jquery.animateNumber.min.js",
+              "src/js/jquery.waypoints.min.js",
+              "src/js/jquery.fancybox.min.js",
+              "src/js/aos.js",
+              "src/js/moment.min.js",
+              "src/js/daterangepicker.js",
+              "src/js/typed.js",
+              "src/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
